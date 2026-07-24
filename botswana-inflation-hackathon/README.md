@@ -1,6 +1,6 @@
 Botswana Food Price Inflation Forecasting System
 
--IndabaX Botswana Hackathon 2026 Submission**  
+-IndabaX Botswana Hackathon 2026 Submission
 Team:Insight Igniters  
 Target Variable: FAO Item Code 23014 — Food Price Inflation (% Year-on-Year) [Dataset 4]  
 Forecast Horizon: January 2024 – December 2024 (12 Months)  
